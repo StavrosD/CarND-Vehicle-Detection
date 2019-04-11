@@ -162,4 +162,8 @@ The detection quality could be further improved by:
 * adding the udacity dataset to the training dataset
 * extracting the cars images and adding them to the "cars" folder. 
 * testing various settings using GridSearchCV
+<<<<<<< HEAD
 * 
+=======
+* 
+>>>>>>> 68eb37722d0c906155f18141f6ebdf9369e52fc0
